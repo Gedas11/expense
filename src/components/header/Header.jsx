@@ -5,7 +5,7 @@ const Header = ()=>{
             <Navbar bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand>
-                        Expenses app
+                        Išlaidų lentelė
                     </Navbar.Brand>
                     <Navbar.Collapse className="justify-content-end">
                         BIT React training
