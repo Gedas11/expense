@@ -1,14 +1,15 @@
 import {Navbar, Container} from "react-bootstrap";
+import User from "../auth/user/User";
 const Header = ()=>{
     return(
         <>
             <Navbar bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand>
-                        Išlaidų lentelė
+                        Expenses app
                     </Navbar.Brand>
                     <Navbar.Collapse className="justify-content-end">
-                        BIT React training
+
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
